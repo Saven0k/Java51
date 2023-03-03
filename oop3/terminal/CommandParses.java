@@ -1,3 +1,3 @@
-﻿public interface CommandParses{
-    String[] parseCommmand (String inputCommand);
+﻿public interface CommandParses {
+    Command parseCommmand(String inputCommand);
 }
